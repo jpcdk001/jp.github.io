@@ -1,0 +1,42 @@
+,p ,li,h1
+{
+  color: red;
+  width:500px;
+  border:1px solid black;
+}
+html 
+{
+	
+font-family:微软雅黑,Arial,Times New Roman;/*字体类型*/	
+background-color: #eee;/*网页底色*/	
+
+  }
+
+h1{
+	
+ font-size: 40px;/*字体大小*/	
+ text-align: center;/*位置 中左右*/	
+ 
+}
+h2{
+	
+ font-size: 30px;
+ text-align: center;
+}
+
+p, li {
+  font-size: 15px;    
+  line-height:1;
+  letter-spacing: 1px;
+}
+body {
+  width: 700px;
+  margin: 0 auto;
+  background-color: #eee;
+  padding: 0px 40px 50px 40px;
+  border: 1px solid black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
