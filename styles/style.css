@@ -30,10 +30,10 @@ p, li {
   letter-spacing: 1px;
 }
 body {
-  width: 700px;
+  width: 800px;
   margin: 0 auto;
   background-color: #eee;
-  padding: 0px 40px 50px 40px;
+  padding: 50px 40px 50px 40px;
   border: 1px solid black;
 }
 img {
